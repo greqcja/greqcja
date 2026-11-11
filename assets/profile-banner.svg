@@ -1,0 +1,40 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>GREQ — Software Engineer and Product Builder</title>
+  <desc>Dark technical banner with a subtle grid, terminal motif and green and blue accents.</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#30363D" stroke-width="1" opacity="0.48"/>
+    </pattern>
+    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EE787" stop-opacity="0.16"/>
+      <stop offset="0.52" stop-color="#58A6FF" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#7EE787" stop-opacity="0.11"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="330" rx="18" fill="#0D1117"/>
+  <rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="330" rx="18" fill="url(#edge)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="17" stroke="#30363D" stroke-width="2"/>
+  <rect x="40" y="34" width="1120" height="42" rx="9" fill="#161B22" stroke="#30363D"/>
+  <circle cx="65" cy="55" r="5" fill="#FF7B72"/>
+  <circle cx="85" cy="55" r="5" fill="#E3B341"/>
+  <circle cx="105" cy="55" r="5" fill="#3FB950"/>
+  <text x="134" y="60" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">~/greq  —  profile.md</text>
+  <text x="62" y="166" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="3">HELLO, WORLD. I'M</text>
+  <text x="58" y="238" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-3">GREQ<span fill="#7EE787">.</span></text>
+  <text x="64" y="277" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">Software Engineer <tspan fill="#7EE787">/</tspan> Product Builder <tspan fill="#7EE787">/</tspan> Systems Thinker</text>
+  <g transform="translate(826 105)">
+    <rect width="290" height="166" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+    <rect x="1" y="1" width="288" height="35" rx="11" fill="#161B22"/>
+    <path d="M1 36H289" stroke="#30363D"/>
+    <text x="20" y="23" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">greq@workstation:~</text>
+    <text x="22" y="70" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">&gt; build</text>
+    <text x="22" y="101" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">&gt; learn</text>
+    <text x="22" y="132" fill="#E3B341" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">&gt; ship</text>
+    <rect x="99" y="119" width="9" height="17" rx="1" fill="#7EE787" opacity="0.9"/>
+  </g>
+  <path d="M786 108L760 134M786 134L760 108" stroke="#58A6FF" stroke-width="2" opacity="0.65"/>
+  <circle cx="1140" cy="285" r="4" fill="#7EE787"/>
+  <circle cx="1118" cy="285" r="4" fill="#58A6FF"/>
+  <circle cx="1096" cy="285" r="4" fill="#E3B341"/>
+</svg>
