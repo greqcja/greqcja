@@ -82,12 +82,32 @@ My main interests are **AI agents, developer tools, automation, web applications
 
 ## `// github_activity`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greqcja&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github&include_all_commits=true" alt="Greq's GitHub statistics" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/greqcja?tab=overview">
+        <strong>Contribution graph</strong>
+        <br />
+        <sub>Commits · contributions · activity</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/greqcja?tab=repositories">
+        <strong>Repositories</strong>
+        <br />
+        <sub>Projects · source code · releases</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/greqcja?tab=overview">View all GitHub activity →</a>
+</p>
+
+---
 
 <div align="center">
-  <br />
   <strong>Build with purpose. Keep learning. Ship what matters.</strong>
   <br /><br />
   <a href="https://github.com/Moxord">Moxord</a>
@@ -95,6 +115,4 @@ My main interests are **AI agents, developer tools, automation, web applications
   <a href="https://github.com/zlecono">Zlecono</a>
   ·
   <a href="https://github.com/greqcja">GitHub</a>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=greqcja&style=flat-square&color=238636&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
